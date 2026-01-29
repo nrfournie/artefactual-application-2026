@@ -1,0 +1,165 @@
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@graph": [{
+            "@type": "BreadcrumbList",
+            "itemListElement": [{
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://www.contemplative.org/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Practices",
+                    "item": "https://www.contemplative.org/practices"
+                }
+            ]
+        },
+        {
+            "@type": "FAQPage",
+            "mainEntity": [{
+                    "@type": "Question",
+                    "name": "What is Centering Prayer?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Centering Prayer is a silent, meditative practice rooted in the Christian contemplative tradition. By gently releasing thoughts and resting in openness to God’s presence, it fosters inner stillness and deepens our capacity for communion with the divine."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What is Lectio Divina?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Lectio Divina (Latin for 'sacred reading') is an ancient practice that combines slow, attentive reading of a biblical or sacred text with meditation, prayer, and silence."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What is the Welcoming Practice?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "The Welcoming Practice is a method of gently consenting to God’s presence in the midst of life’s challenges. By acknowledging, feeling, and releasing our inner reactions, we open to greater freedom."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What is Sacred Chant?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Sacred Chant is a contemplative practice that unites voice, breath, and spirit. Simple melodies and rhythms open the heart, deepen silence, and draw us into the living stream of contemplative tradition."
+                    }
+                }
+            ]
+        },
+        {
+            "@type": "HowTo",
+            "name": "How to Practice Centering Prayer",
+            "description": "A simple method to reconnect with your natural aptitude for the inner life, releasing thoughts and resting in God's presence.",
+            "image": "https://i.ytimg.com/vi/8UPkF2vhIck/maxresdefault.jpg",
+            "totalTime": "PT20M",
+            "video": {
+                "@type": "VideoObject",
+                "name": "Centering Prayer Instructional Video",
+                "description": "A guide to the method of Centering Prayer rooted in the Christian contemplative tradition.",
+                "thumbnailUrl": "https://i.ytimg.com/vi/8UPkF2vhIck/maxresdefault.jpg",
+                "uploadDate": "2024-01-01",
+                "contentUrl": "https://www.youtube.com/watch?v=8UPkF2vhIck",
+                "embedUrl": "https://www.youtube.com/embed/8UPkF2vhIck"
+            },
+            "step": [{
+                    "@type": "HowToStep",
+                    "name": "Find a quiet space",
+                    "text": "Choose a place where you are unlikely to be disturbed.",
+                    "url": "https://www.contemplative.org/practices#centering-prayer"
+                },
+                {
+                    "@type": "HowToStep",
+                    "name": "Sit comfortably and alert",
+                    "text": "Sit in a way that allows you to be relaxed in body and awake in mind.",
+                    "url": "https://www.contemplative.org/practices#centering-prayer"
+                },
+                {
+                    "@type": "HowToStep",
+                    "name": "Close your eyes",
+                    "text": "Gently let your attention shift inward.",
+                    "url": "https://www.contemplative.org/practices#centering-prayer"
+                },
+                {
+                    "@type": "HowToStep",
+                    "name": "Introduce a sacred word",
+                    "text": "Choose a short word like 'Abba', 'Jesus', 'Peace', or 'Love' as a symbol of your intention to remain open.",
+                    "url": "https://www.contemplative.org/practices#centering-prayer"
+                },
+                {
+                    "@type": "HowToStep",
+                    "name": "Let thoughts go",
+                    "text": "Whenever you become aware of a thought, simply release it and return to your sacred word.",
+                    "url": "https://www.contemplative.org/practices#centering-prayer"
+                },
+                {
+                    "@type": "HowToStep",
+                    "name": "Stay with the practice",
+                    "text": "Continue resting in silence for about 20 minutes.",
+                    "url": "https://www.contemplative.org/practices#centering-prayer"
+                }
+            ]
+        },
+        {
+            "@type": "HowTo",
+            "name": "How to do Lectio Divina",
+            "description": "The four movements of sacred reading to encounter the living Word.",
+            "step": [{
+                    "@type": "HowToStep",
+                    "name": "Read (Lectio)",
+                    "text": "Read a short passage of Scripture slowly and deliberately, at least twice.",
+                    "url": "https://www.contemplative.org/practices#lectio-divina"
+                },
+                {
+                    "@type": "HowToStep",
+                    "name": "Meditate (Meditatio)",
+                    "text": "Ponder the words. Use your imagination and senses.",
+                    "url": "https://www.contemplative.org/practices#lectio-divina"
+                },
+                {
+                    "@type": "HowToStep",
+                    "name": "Pray (Oratio)",
+                    "text": "Respond in prayer to what arises from your meditation.",
+                    "url": "https://www.contemplative.org/practices#lectio-divina"
+                },
+                {
+                    "@type": "HowToStep",
+                    "name": "Contemplate (Contemplatio)",
+                    "text": "Rest in silence beyond thought and analysis.",
+                    "url": "https://www.contemplative.org/practices#lectio-divina"
+                }
+            ]
+        },
+        {
+            "@type": "HowTo",
+            "name": "How to do the Welcoming Practice",
+            "description": "A method of consenting to God's presence in daily life by welcoming emotions and sensations.",
+            "step": [{
+                    "@type": "HowToStep",
+                    "name": "Focus or sink in",
+                    "text": "Feel the feeling or sensation in your body without judgment or stories.",
+                    "url": "https://www.contemplative.org/practices#welcoming-practice"
+                },
+                {
+                    "@type": "HowToStep",
+                    "name": "Welcome",
+                    "text": "Welcome the sensation by saying internally 'Welcome, pain' or 'Welcome, frustration'.",
+                    "url": "https://www.contemplative.org/practices#welcoming-practice"
+                },
+                {
+                    "@type": "HowToStep",
+                    "name": "Let go",
+                    "text": "Surrender your demand for the situation to be different.",
+                    "url": "https://www.contemplative.org/practices#welcoming-practice"
+                }
+            ]
+        }
+    ]
+}
+</script>
