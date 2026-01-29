@@ -29,11 +29,8 @@ Rather than automated field mapping, I manually reviewed and restructured conten
 | WordPress Content Type | New Wix Structure | Manual Process |
 | :--- | :--- | :--- |
 | Blog posts | Wix Blog + Content Manager | Copy/paste with metadata cleanup |
-| Audio resources | Wix Velo Dynamic Pages | Upload files, create custom fields |
 | Category tags | Structured taxonomy | Standardize naming conventions |
 | Author attributions | Contributor fields | Verify accuracy, add where missing |
-
-**Key Decision:** Built custom Wix Velo collections for archival resources (rather than standard blog format) to enable better filtering and search functionality.
 
 ---
 
