@@ -6,6 +6,6 @@ At Libro Credit Union, I learned that trust is earned through honesty and consis
 
 For Artefactual's clients—archivists stewarding irreplaceable cultural materials—the challenge isn't just "Can this software work?" It's "Will I feel supported through this process?"
 
-My role is to be the bridge: fluent in the technical side (metadata, workflows) and deeply committed to the human side (patience, clarity, trust). This aligns with Artefactual's values of trustworthiness, collaboration, and sustainability.
+My role is to be the bridge: Eager to learn the technical side and deeply committed to the human side (patience, clarity, trust). This aligns with Artefactual's values of trustworthiness, collaboration, and sustainability.
 
 Digital preservation is sacred work. My job is to honour that by making the complex feel manageable
