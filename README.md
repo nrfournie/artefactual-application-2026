@@ -7,7 +7,7 @@ Hello, Artefactual team.
 
 I am applying for the **Digital Preservation & Access Specialist, Customer Success** role, and I wanted to demonstrate my "curious mindset" in a format your team uses every day: GitHub.
 
-While I don't have a traditional developer background, I have been building digital preservation systems at **The Contemplative Society** using structured data, migrations, and workflow design—the skillset you need for customer onboarding and lifecycle management.
+While I don't have a traditional developer background, I have been building digital preservation systems at **The Contemplative Society** using structured data, migrations, and workflow design, the skillset you need for customer onboarding and lifecycle management.
 
 This repository contains samples of my work.
 
@@ -16,8 +16,8 @@ This repository contains samples of my work.
 ## What I've Built at The Contemplative Society
 
 ### 1. **WordPress → Wix Migration (2025)**
-- **Challenge:** 12 years of legacy blog content with broken metadata and missing files
-- **My Role:** Designed and executed full data audit, backup, and migration
+- **Challenge:** Decades of legacy blog content with broken metadata and missing files
+- **My Role:** Designed and executed a full data audit, backup, and migration
 - **Tools:** Wix Velo (JavaScript), JSON, manual data mapping, Wayback Machine
 - **Outcome:** 100% data integrity, zero files lost, reduction in contractor and hosting fees
   
