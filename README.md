@@ -23,12 +23,12 @@ This repository contains samples of my work.
   
 ### 2. **Cynthia Bourgeault Digital Archive**
 - **Challenge:** Preserving 400+ audio/text resources for global access
-- **My Role:** Organized into fonds, Designed, Architected JSON schema for metadata, Marketing/ communications launch plan
-- **Outcome:** Will be launching a searchable archive with custom tagging for contemplative practices
+- **My Role:** Organized into fonds, designed, and architected JSON schema for metadata, marketing/ communications launch plan
+- **Outcome:** Will be launching a searchable archive with custom tagging for contemplative practices spring 2026
 
 ### 3. **Analytics-Driven Content Strategy**
 - **Challenge:** Low discoverability for "Centering Prayer" resources
-- **My Role:** Analyzed Google Search Console data, created YouTube tutorial, implemented backend code
+- **My Role:** Analyzed Google Search Console data, created a YouTube tutorial, and implemented backend code
 - **Outcome:** Traffic spike from targeted keyword optimization
 
 ---
@@ -36,7 +36,7 @@ This repository contains samples of my work.
 ## Files in This Repository
 
 📄 **[migration_workflow.md](migration_workflow.md)** — A simplified version of my migration process (data mapping, risk mitigation)  
-📄 **[archive_metadata_sample.json](archive_metadata_sample.json)** — Example of the JSON schema I designed for archival metadata  
+📄 **[seo_schema_sample.json](seo_schema_sample.json)** — Example of the JSON schema I designed for SEO
 📄 **[customer_success_philosophy.md](customer_success_philosophy.md)** — My approach to onboarding and client retention
 
 ---
