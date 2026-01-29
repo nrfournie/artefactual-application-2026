@@ -56,8 +56,8 @@ This repository contains samples of my work.
 I would love to discuss how I can help your clients achieve their preservation goals.
 
 📧 **nicholas.fournie@gmail.com**  
-🔗 **www.linkedin.com/in/fournie**  
-📹 **[90-Second Video Introduction](loom-link-here)**
+🔗 **[LinkedIn](www.linkedin.com/in/fournie)**  
+📹 **[90-Second Video Introduction](https://www.youtube.com/watch?v=URvkKj5elwA)**
 
 ---
 
